@@ -4,14 +4,14 @@ papers:
     description: "Developed tennis match prediction model using only pre-match data with RFs and vanilla NN"
     venue: "Aashish Dhanani"
     code: https://github.com/aashishdhanani/What-Are-The-Odds.git
-    ml: y
+   
     all: y
 
   - title: "Worlde Clone"
     description: "Developed a Wordle clone for my CS1 final project."
     venue: "Aashish Dhanani"
     code: https://github.com/aashishdhanani/Wordle.git
-    ml: n
+   
     all: y
  
   
