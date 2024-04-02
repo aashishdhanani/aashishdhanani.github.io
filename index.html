@@ -100,8 +100,8 @@ title: Home
     </div>
     -->
     <!-- All PAPERS -->
-<!--     <div class="tab-pane active" id="papers-all">
-      {% assign papers = site.data.publications.papers %}
+    <div class="tab-pane active" id="papers-all">
+      {% assign papers = site.data.publications.papers | where: "all", "y" %}
       {% for paper in papers %}
       <div class="paper">
         <p class="title"><b>{{ paper.title }}</b>
@@ -128,11 +128,11 @@ title: Home
         </div>
       </div>
       {% endfor %}
-    </div> -->
+    </div>
 
 
     <!-- ml PAPERS -->
-    <div class="tab-pane active" id="papers-ml">
+    <!-- <div class="tab-pane active" id="papers-ml">
       {% assign nlp_papers = site.data.publications.papers | where: "ml", "y" %}
       {% for paper in nlp_papers %}
       <div class="paper">
@@ -157,9 +157,9 @@ title: Home
         <p><i>{{ paper.venue }}</i></p>
       </div>
       {% endfor %}
-    </div>
+    </div> -->
     <!-- web3 Projects -->
-    <div class="tab-pane" id="papers-web3">
+    <!-- <div class="tab-pane" id="papers-web3">
       {% assign other_papers = site.data.publications.papers | where: "web3", "y" %}
       {% for paper in other_papers %}
       <div class="paper">
@@ -184,7 +184,7 @@ title: Home
         <p><i>{{ paper.venue }}</i></p>
       </div>
       {% endfor %}
-    </div>
+    </div> -->
 
   </div>
 </div>
