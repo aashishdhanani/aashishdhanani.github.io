@@ -4,6 +4,7 @@ papers:
     description: "Developed tennis match prediction model using only pre-match data with RFs and vanilla NN"
     venue: "Aashish Dhanani"
     code: https://github.com/aashishdhanani/What-Are-The-Odds.git
+    ml: y
     all: y
 
   - title: "Worlde Clone"
