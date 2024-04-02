@@ -11,8 +11,8 @@ papers:
     description: "Developed a Wordle clone for my CS1 final project."
     venue: "Aashish Dhanani"
     code: https://github.com/aashishdhanani/Wordle.git
+    ml: n
     all: y
-    ml: y
  
   
 
