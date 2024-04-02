@@ -12,7 +12,7 @@ papers:
     venue: "Aashish Dhanani"
     code: https://github.com/aashishdhanani/Wordle.git
     all: y
-    ml: n
+    ml: y
  
   
 
