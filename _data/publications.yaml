@@ -1,5 +1,11 @@
 papers:
 
+  - title: "FashionAI"
+    description: "Developed FashionAI, an IOS app designed to upgrade your sense of clothing style."
+    venue: "Aashish Dhanani"
+    code: https://github.com/aashishdhanani/fashionAI.git
+    all: y
+
   - title: "Tennis Prediction Capstone"
     description: "Developed tennis match prediction model using only pre-match data with RFs and vanilla NN"
     venue: "Aashish Dhanani"
