@@ -1,4 +1,9 @@
 papers:
+  - title: "HealthHub"
+    description: "Developed HealthHub, an IOS app designed to help you keep track of your health as well as your mental health."
+    venue: "Aashish Dhanani"
+    code: https://github.com/aashishdhanani/personal-health-app.git
+    all: y
 
   - title: "FashionAI"
     description: "Developed FashionAI, an IOS app designed to upgrade your sense of clothing style."
